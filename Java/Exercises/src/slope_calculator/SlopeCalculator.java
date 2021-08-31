@@ -1,5 +1,8 @@
-/*
-This program finds the midpoint, slope and distance of 2 points on a graph*/
+package slope_calculator;
+/************************************************************************************************
+ * This program finds the midpoint, slope and distance of 2 points on a graph
+ ************************************************************************************************/
+
 import java.util.Scanner;
 import java.lang.Math;
 
